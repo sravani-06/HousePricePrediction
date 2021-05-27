@@ -4,6 +4,8 @@
 Our goal is to predict the accurate SalePrice of Houses with given features.
 Models are evaluated on the Root-Mean-Squared-Error (RMSE).
 
+Data Source: Ames Housing Data, Kaggle.
+
 
 **Machine Learning models implemented** :
 - Cross Validation: Using 11-fold cross-validation
